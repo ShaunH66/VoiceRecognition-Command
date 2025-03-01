@@ -4,7 +4,8 @@ Voice Recognition & Command via Phrase App
 offline vosk models
 https://alphacephei.com/vosk/models
 
-![image](https://github.com/user-attachments/assets/124554c3-a258-43de-9955-5d5311d9a405)
+![image](https://github.com/user-attachments/assets/49f8623e-3b22-4245-b586-0b7a5a4d374e)
+
 
 
 
