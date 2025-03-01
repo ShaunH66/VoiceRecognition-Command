@@ -135,7 +135,7 @@ ctk.set_default_color_theme("blue")
 
 app = ctk.CTk()
 app.geometry("700x700")
-app.title("Voice Recognition & Command via Phrase App - by Shaun Harris")
+app.title("Voice Recognition & Command via Phrase - by Shaun Harris")
 
 # ------------------- Top Frame for Status -------------------
 top_frame = ctk.CTkFrame(master=app)
